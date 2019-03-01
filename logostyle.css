@@ -74,12 +74,12 @@ body{
 	content: "";
 	background: white;
 	width: 14px;
-	height: 169px;
+	height: 171px;
 	display: inline-block;
 	left: -51px;
-	top: 32px;
+	top: 30px;
 	position: absolute;
-	transform: rotate(21deg);
+	transform: rotate(23deg);
 	border-top-left-radius: 15px;
 }
 
